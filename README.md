@@ -24,7 +24,7 @@ Some of the glimses of the App
 
 |OverAll App |   Day 1 | Day 9 | Day 30 Final Day  |
 |------------------|------------------|------------------|----------------------|
-|![overall app](https://github.com/user-attachments/assets/fc5fbb50-5904-4f0b-886c-9a5a0adeb469) | ![day2](https://github.com/user-attachments/assets/bd769d0d-8346-4285-ae8f-692fe02d5f35) | ![day 9](https://github.com/user-attachments/assets/0a21285e-5731-434e-9f33-4fed2bceeea1)|![final day](https://github.com/user-attachments/assets/c328e7a1-210e-4ece-8858-33754881de72)
+|![overall app](https://github.com/user-attachments/assets/fc5fbb50-5904-4f0b-886c-9a5a0adeb469) | ![day2](https://github.com/user-attachments/assets/bd769d0d-8346-4285-ae8f-692fe02d5f35) | ![day 9](https://github.com/user-attachments/assets/0a21285e-5731-434e-9f33-4fed2bceeea1) | ![final day](https://github.com/user-attachments/assets/c328e7a1-210e-4ece-8858-33754881de72)
 
 ## Technologies Used
 
