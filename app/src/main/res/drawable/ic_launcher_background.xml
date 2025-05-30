@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--
+        Background for the adaptive icon.
+        This example uses a simple linear gradient.
+        You can change the colors to fit your app's branding.
+        Common choices include vibrant greens, blues, or energetic oranges/yellows.
+    -->
+    <gradient
+        android:angle="45"
+        android:startColor="#4CAF50"
+        android:endColor="#8BC34A"
+        android:type="linear" />
+    <!--
+        Alternatively, you can use a solid color:
+        <solid android:color="@color/your_background_color" />
+    -->
+</shape>

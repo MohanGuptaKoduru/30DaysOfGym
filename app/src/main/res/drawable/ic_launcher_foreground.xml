@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!--
+        Vector Drawable for the icon foreground.
+        This icon represents a calendar page with a heart, symbolizing a 30-day fitness commitment.
+        The paths are designed to be within the safe zone of an adaptive icon.
+        The total viewport is 108dp x 108dp. The actual visible area on many launchers
+        is a circle or squircle within this, roughly 66dp to 72dp in diameter.
+        It's good practice to keep main elements within the central 72dp x 72dp area.
+    -->
+
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M10,6 H44 C45.1,6 46,6.9 46,8 V42 C46,43.1 45.1,44 44,44 H10 C8.9,44 8,43.1 8,42 V8 C8,6.9 8.9,6 10,6 Z" />
+
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M8,14 H46 V10 H8 Z" />
+
+        <path
+            android:fillColor="#BDBDBD"
+            android:pathData="M14,4 h4 v4 h-4z M36,4 h4 v4 h-4z" />
+
+        <path
+            android:fillColor="#FF5252"
+            android:pathData="M27,22 C27,22 22,18 19.5,20.5 C17,23 19,27 27,34 C35,27 37,23 34.5,20.5 C32,18 27,22 27,22Z" />
+
+        <!-- Optional: Subtle "30" text. Vector text can be complex.
+             For simplicity, this is omitted, but you could add path data for "30".
+             Alternatively, the concept of "30 days" is implied by the calendar/commitment.
+             If adding text, ensure it's legible and clean.
+        -->
+        </group>
+</vector>

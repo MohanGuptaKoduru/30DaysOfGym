@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">30DaysGym</string>
+    <string name="_30_days_of_gym_workouts">30 Days Of Gym workouts </string>
+    <string name="day_1head">Day 1: Full Body Workout</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_1desc">Begin your journey with a full-body workout to build a strong foundation.</string>
+
+    <string name="day_2head">Day 2: Upper Body Strength</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_2desc">Focus on strengthening your upper body muscles.</string>
+
+    <string name="day_3head">Day 3: Lower Body Strength</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_3desc">Target your lower body muscles for enhanced strength.</string>
+
+    <string name="day_4head">Day 4: Core Conditioning</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_4desc">Engage in exercises that strengthen your core.</string>
+
+    <string name="day_5head">Day 5: Cardio Blast</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_5desc">Increase your heart rate with a cardio-focused workout.</string>
+
+    <string name="day_6head">Day 6: Active Recovery</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_6desc">Allow your body to recover with light activities.</string>
+
+    <string name="day_7head">Day 7: Rest Day</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_7desc">Take a complete rest to let your muscles recover.</string>
+
+    <string name="day_8head">Day 8: Full Body Workout</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_8desc">Revisit full-body exercises to reinforce your foundation.</string>
+
+    <string name="day_9head">Day 9: Upper Body Strength</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_9desc">Continue building upper body strength with varied exercises.</string>
+
+    <string name="day_10head">Day 10: Lower Body Strength</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_10desc">Focus on lower body exercises to enhance muscle tone.</string>
+
+    <string name="day_11head">Day 11: Core Conditioning</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_11desc">Strengthen your core with targeted exercises.</string>
+
+
+    <string name="day_12head">Day 12: Cardio Blast</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_12desc">Burn calories and boost endurance with intense cardio.</string>
+
+    <string name="day_13head">Day 13: Mobility and Stretching</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_13desc">Improve flexibility and reduce injury risk with mobility work.</string>
+
+    <string name="day_14head">Day 14: Rest Day</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_14desc">Take a break and allow your body to fully recover.</string>
+
+    <string name="day_15head">Day 15: Full Body Circuit</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_15desc">Challenge your entire body with a high-intensity circuit.</string>
+
+    <string name="day_16head">Day 16: Push Focus</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_16desc">Target chest, shoulders, and triceps with push exercises.</string>
+
+    <string name="day_17head">Day 17: Pull Focus</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_17desc">Focus on back and biceps with pull-based movements.</string>
+
+    <string name="day_18head">Day 18: Core Burnout</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_18desc">Intensify your core training with advanced exercises.</string>
+
+    <string name="day_19head">Day 19: HIIT Cardio</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_19desc">Alternate between high and low intensity to maximize fat burn.</string>
+
+    <string name="day_20head">Day 20: Active Recovery</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_20desc">Perform light movements to recover while staying active.</string>
+
+    <string name="day_21head">Day 21: Rest Day</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_21desc">Rest and recharge before entering the final stretch.</string>
+
+    <string name="day_22head">Day 22: Full Body Power</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_22desc">Build power and explosiveness through compound lifts.</string>
+
+    <string name="day_23head">Day 23: Lower Body Burn</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_23desc">Challenge your legs with squats, lunges, and more.</string>
+
+    <string name="day_24head">Day 24: Upper Body Shred</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_24desc">Tighten and tone your upper body with high reps.</string>
+
+    <string name="day_25head">Day 25: Core and  Balance</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_25desc">Strengthen your core and improve overall balance.</string>
+
+    <string name="day_26head">Day 26: Plyometrics</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_26desc">Increase athleticism with jump training and explosive movements.</string>
+
+    <string name="day_27head">Day 27: Functional Training</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_27desc">Enhance real-life movements through functional exercises.</string>
+
+    <string name="day_28head">Day 28: Light Stretch and Flow</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_28desc">Gentle stretching to improve flexibility and blood flow.</string>
+
+    <string name="day_29head">Day 29: Bodyweight Mastery</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_29desc">Maximize control and form with bodyweight exercises.</string>
+
+    <string name="day_30head">Day 30: Final Challenge</string>
+    <string name="day_30">Day 30</string>
+    <string name="day_30desc">End strong with a challenging full-body workout!</string>
+
+    </resources>
